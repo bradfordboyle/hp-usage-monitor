@@ -1,0 +1,9 @@
+{
+  "printer": {
+    "host": "192.168.1.2",
+    "port": 443    
+  },
+  "logfile": "hp-usage-monitor.log",
+  "rrdfile": "hp-usage-monitor.rrd",
+  "ca-cert": "printer.pem"
+}
